@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Students>
+	
+<student><id>1</id><name>Mark Anthony Perez</name><course>BSIT</course></student>
+
+
+
+
+
+<student><id>2</id><name>Khenard Salango</name><course>BSIT</course></student><student><id>3</id><name>Mark  Eugene Aguilar</name><course>BSIT</course></student><student><id>4</id><name>Cindy Layak</name><course>BSIT</course></student><student><id>5</id><name>Janina Alaine Gaspar</name><course>BSIT</course></student><student><id>6</id><name>Kenneth John Inocentes</name><course>BSIT</course></student><student><id>1</id><name>Sheldon</name><course>BSIT</course></student></Students>
